@@ -1,0 +1,8 @@
++3,5:one->Hello
++3,5:two->Hello
++10,0:emptyvalue->
++2,2:д->њ
++0,8:->emptykey
++3,5:two->World
+
+# -*- coding: utf-8 -*-
